@@ -15,10 +15,11 @@
     "watch-js": "nodemon dist/app.js"
   },
   "devDependencies": {
-    "concurrently": "^5.0.0",
+    "concurrently": "^6.2.1",
     "nodemon": "^2.0.1"
   },
   "dependencies": {
+    "concurrently": "^6.2.1",
     "@typegoose/typegoose": "^7.2.0",
     "@types/dotenv": "^8.2.0",
     "@types/mongoose": "^5.5.32",
